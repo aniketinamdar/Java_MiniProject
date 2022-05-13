@@ -17,23 +17,18 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        TextView username = findViewById(R.id.username);
-        TextView password = findViewById(R.id.password);
-
-        MaterialButton loginbtn = (MaterialButton) findViewById(R.id.loginbtn);
-
-        loginbtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Toast.makeText(MainActivity.this,"Login Successful",Toast.LENGTH_SHORT).show();
-                Login_Successful();
-            }
-        });
     }
-    public void Login_Successful()
-    {
-        Intent intent = new Intent(this,signup.class);
-        startActivity(intent);
+
+    public void OpenSignUpPage(View view) {
+        startActivity(new Intent(this,signup.class));
+    }
+
+    public void OpenLoginPage(View view) {
+        startActivity(new Intent(this,Loginin.class));
+    }
+
+
+    public void Finish(View view) {
+        finish();
     }
 }
