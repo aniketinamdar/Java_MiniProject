@@ -16,6 +16,7 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable logo
 id aldreadyaccount
+id body_container
 id cnfirmpasswrd
 id emailid
 id forgotpassword
@@ -29,6 +30,7 @@ id signupbtn
 id username
 layout activity_loginin
 layout activity_main
+layout activity_mainscreen
 layout activity_signup
 mipmap ic_launcher
 mipmap ic_launcher_round

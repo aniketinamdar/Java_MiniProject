@@ -2606,6 +2606,7 @@ id beginOnFirstDraw
 id beginning
 id bestChoice
 id blocking
+id body_container
 id bottom
 id bounce
 id bounceBoth
@@ -3087,6 +3088,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_loginin
 layout activity_main
+layout activity_mainscreen
 layout activity_signup
 layout custom_dialog
 layout design_bottom_navigation_item

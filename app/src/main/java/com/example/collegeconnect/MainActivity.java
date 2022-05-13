@@ -31,4 +31,8 @@ public class MainActivity extends AppCompatActivity {
     public void Finish(View view) {
         finish();
     }
+
+    public void OpenMainPage(View view) {
+        startActivity(new Intent(this,mainscreen.class));
+    }
 }
