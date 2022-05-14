@@ -28,8 +28,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="7e7e7e" />
-                            <entry key="outputName" value="ic_baseline_dashboard_24" />
+                            <entry key="outputName" value="ic_dashboard" />
                             <entry key="sourceFile" value="D:\javaproj\Java_MiniProject" />
                           </map>
                         </option>

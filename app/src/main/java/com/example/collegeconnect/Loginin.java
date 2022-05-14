@@ -2,6 +2,7 @@ package com.example.collegeconnect;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
@@ -15,4 +16,8 @@ public class Loginin extends AppCompatActivity {
     public void Finish(View view) {
         finish();
     }
+
+//    public void OpenMainPage(View view) {
+//        startActivity(new Intent(this,mainscreen.class));
+//    }
 }
