@@ -17,7 +17,8 @@ public class Loginin extends AppCompatActivity {
         finish();
     }
 
-//    public void OpenMainPage(View view) {
-//        startActivity(new Intent(this,mainscreen.class));
-//    }
+    public void OpenMainPage(View view) {
+        startActivity(new Intent(this,mainscreen.class));
+    }
+
 }

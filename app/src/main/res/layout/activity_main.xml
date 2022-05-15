@@ -60,7 +60,7 @@
             android:onClick="OpenLoginPage"
             />
     </LinearLayout>
-    
+
 
 
 

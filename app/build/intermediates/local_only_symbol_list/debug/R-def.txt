@@ -31,6 +31,7 @@ id nav_home
 id nav_search
 id password
 id passwrd
+id search_view
 id signin
 id signup
 id signupbtn

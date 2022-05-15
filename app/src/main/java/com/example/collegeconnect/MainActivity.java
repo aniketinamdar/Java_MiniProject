@@ -27,13 +27,14 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(this,Loginin.class));
     }
 
+    public void OpenMainPage(View view) {
+        startActivity(new Intent(this,mainscreen.class));
+    }
+
 
     public void Finish(View view) {
         finish();
     }
 
-    public void OpenMainPage(View view) {
-        startActivity(new Intent(this,mainscreen.class));
-    }
 
 }
