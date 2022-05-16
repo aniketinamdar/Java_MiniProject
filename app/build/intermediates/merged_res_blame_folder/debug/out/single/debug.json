@@ -4,6 +4,10 @@
         "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\ic_search.xml"
     },
     {
+        "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\layout_recycler_view.xml.flat",
+        "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\layout\\recycler_view.xml"
+    },
+    {
         "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_background01.png.flat",
         "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\background01.png"
     },
@@ -64,20 +68,20 @@
         "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\ic_person.xml"
     },
     {
-        "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
         "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
         "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\ic_add.xml"
     },
     {
-        "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.xml.flat",
-        "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\ic_home.xml"
+        "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
     },
     {
         "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_email.xml.flat",
         "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_home.xml.flat",
+        "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\ic_home.xml"
     },
     {
         "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
@@ -112,12 +116,12 @@
         "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\backgrnd.jpg"
     },
     {
-        "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background.png.flat",
-        "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable-v24\\background.png"
+        "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_img1.jpg.flat",
+        "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\img1.jpg"
     },
     {
-        "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable_item_add.xml.flat",
-        "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable\\item_add.xml"
+        "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_background.png.flat",
+        "source": "D:\\javaproj\\Java_MiniProject\\app\\src\\main\\res\\drawable-v24\\background.png"
     },
     {
         "merged": "D:\\javaproj\\Java_MiniProject\\app\\build\\intermediates\\merged_res\\debug\\menu_bottom_navigation.xml.flat",

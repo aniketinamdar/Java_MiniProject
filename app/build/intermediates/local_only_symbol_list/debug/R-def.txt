@@ -22,14 +22,17 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_person
 drawable ic_search
-drawable item_add
+drawable img1
 drawable logo
 id aldreadyaccount
 id bottom_navigation
 id cnfirmpasswrd
 id container
+id desc
 id emailid
 id forgotpassword
+id heading
+id imageview
 id loginbtn
 id name
 id nav_dashboard
@@ -37,6 +40,7 @@ id nav_home
 id nav_search
 id password
 id passwrd
+id recyclerview
 id reppassword
 id search_view
 id signin
@@ -51,6 +55,7 @@ layout activity_signup
 layout fragment_dashboard
 layout fragment_home
 layout fragment_search
+layout recycler_view
 menu bottom_navigation
 mipmap ic_launcher
 mipmap ic_launcher_round
