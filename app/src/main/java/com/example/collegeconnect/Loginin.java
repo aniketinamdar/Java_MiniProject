@@ -20,5 +20,6 @@ public class Loginin extends AppCompatActivity {
     public void OpenMainPage(View view) {
         startActivity(new Intent(this,mainscreen.class));
     }
-
+    public void OpenForgotPassword(View view) {
+        startActivity(new Intent(this,forgotpassword.class));}
 }

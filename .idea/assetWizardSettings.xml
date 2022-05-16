@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$PROJECT_DIR$/../../Android_SDK/icons/material/materialicons/dashboard/baseline_dashboard_24.xml" />
+                                      <entry key="url" value="file:/$PROJECT_DIR$/../../Android_SDK/icons/material/materialicons/email/baseline_email_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +28,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_dashboard" />
+                            <entry key="color" value="555555" />
+                            <entry key="outputName" value="ic_email" />
                             <entry key="sourceFile" value="D:\javaproj\Java_MiniProject" />
                           </map>
                         </option>

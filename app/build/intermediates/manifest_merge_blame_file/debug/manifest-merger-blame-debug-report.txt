@@ -11,7 +11,7 @@
 9-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:5:5-30:19
+11-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:5:5-33:19
 12        android:allowBackup="true"
 12-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -29,61 +29,67 @@
 19-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:11:9-52
 20        <activity
 20-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:12:9-14:40
-21            android:name="com.example.collegeconnect.mainscreen"
-21-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:13:13-39
+21            android:name="com.example.collegeconnect.forgotpassword"
+21-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:13:13-43
 22            android:exported="false" />
 22-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:14:13-37
 23        <activity
 23-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:15:9-17:40
-24            android:name="com.example.collegeconnect.Loginin"
-24-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:16:13-36
+24            android:name="com.example.collegeconnect.mainscreen"
+24-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:16:13-39
 25            android:exported="false" />
 25-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:17:13-37
 26        <activity
 26-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:18:9-20:40
-27            android:name="com.example.collegeconnect.signup"
-27-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:19:13-35
+27            android:name="com.example.collegeconnect.Loginin"
+27-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:19:13-36
 28            android:exported="false" />
 28-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:20:13-37
 29        <activity
-29-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:21:9-29:20
-30            android:name="com.example.collegeconnect.MainActivity"
-30-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:22:13-41
-31            android:exported="true" >
-31-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:23:13-36
-32            <intent-filter>
-32-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:24:13-28:29
-33                <action android:name="android.intent.action.MAIN" />
-33-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:25:17-69
-33-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:25:25-66
-34
-35                <category android:name="android.intent.category.LAUNCHER" />
-35-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:27:17-77
-35-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:27:27-74
-36            </intent-filter>
-37        </activity>
-38
-39        <provider
-39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-40            android:name="androidx.startup.InitializationProvider"
-40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-41            android:authorities="com.example.collegeconnect.androidx-startup"
-41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-42            android:exported="false" >
-42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-43            <meta-data
-43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-44                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-45                android:value="androidx.startup" />
-45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+29-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:21:9-23:40
+30            android:name="com.example.collegeconnect.signup"
+30-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:22:13-35
+31            android:exported="false" />
+31-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:23:13-37
+32        <activity
+32-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:24:9-32:20
+33            android:name="com.example.collegeconnect.MainActivity"
+33-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:25:13-41
+34            android:exported="true" >
+34-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:26:13-36
+35            <intent-filter>
+35-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:27:13-31:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:28:17-69
+36-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:28:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:30:17-77
+38-->D:\javaproj\Java_MiniProject\app\src\main\AndroidManifest.xml:30:27-74
+39            </intent-filter>
+40        </activity>
+41
+42        <provider
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+43            android:name="androidx.startup.InitializationProvider"
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+44            android:authorities="com.example.collegeconnect.androidx-startup"
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+45            android:exported="false" >
+45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
 46            <meta-data
-46-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7c2b991ffee7d4db452bfe70f5605b71\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-47                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7c2b991ffee7d4db452bfe70f5605b71\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+47                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
 48                android:value="androidx.startup" />
-48-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7c2b991ffee7d4db452bfe70f5605b71\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-49        </provider>
-50    </application>
-51
-52</manifest>
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7a8fe7a0d27e6111d8f26a88e3f3f946\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+49            <meta-data
+49-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7c2b991ffee7d4db452bfe70f5605b71\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+50-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7c2b991ffee7d4db452bfe70f5605b71\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+51                android:value="androidx.startup" />
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Aniket Inamdar\.gradle\caches\transforms-3\7c2b991ffee7d4db452bfe70f5605b71\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+52        </provider>
+53    </application>
+54
+55</manifest>

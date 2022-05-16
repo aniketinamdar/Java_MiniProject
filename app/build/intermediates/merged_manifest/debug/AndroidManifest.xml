@@ -18,6 +18,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CollegeConnect" >
         <activity
+            android:name="com.example.collegeconnect.forgotpassword"
+            android:exported="false" />
+        <activity
             android:name="com.example.collegeconnect.mainscreen"
             android:exported="false" />
         <activity

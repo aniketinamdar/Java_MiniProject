@@ -115,6 +115,7 @@
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
         android:backgroundTint="#229FD1"
+        android:onClick="OpenLoginPage"
         android:text="SIGN UP" />
 
     <TextView

@@ -31,10 +31,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(this,mainscreen.class));
     }
 
-
+    public void OpenForgotPassword(View view) { startActivity(new Intent(this,forgotpassword.class));}
     public void Finish(View view) {
         finish();
     }
+
 
 
 }
