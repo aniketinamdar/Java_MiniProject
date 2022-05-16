@@ -11,12 +11,15 @@ import android.widget.Toast;
 
 import com.google.android.material.button.MaterialButton;
 
+import com.example.collegeconnect.Sock;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Sock.init();
     }
 
     public void OpenSignUpPage(View view) {
