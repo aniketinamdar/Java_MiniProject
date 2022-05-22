@@ -28,6 +28,10 @@
         "source": "com.example.collegeconnect.app-main-28:/drawable/ic_baseline_font_download_24.xml"
     },
     {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_dashboard.xml.flat",
+        "source": "com.example.collegeconnect.app-main-28:/drawable/dashboard.xml"
+    },
+    {
         "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_logo.jpg.flat",
         "source": "com.example.collegeconnect.app-main-28:/drawable/logo.jpg"
     },
@@ -52,6 +56,10 @@
         "source": "com.example.collegeconnect.app-main-28:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_arrow_white.png.flat",
+        "source": "com.example.collegeconnect.app-main-28:/drawable/arrow_white.png"
+    },
+    {
         "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_email.xml.flat",
         "source": "com.example.collegeconnect.app-main-28:/drawable/ic_email.xml"
     },
@@ -64,12 +72,12 @@
         "source": "com.example.collegeconnect.app-main-28:/layout/fragment_search.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-anydpi-v26/ic_launcher.xml"
-    },
-    {
         "merged": "com.example.collegeconnect.app-merged_res-26:/layout_activity_mainscreen.xml.flat",
         "source": "com.example.collegeconnect.app-main-28:/layout/activity_mainscreen.xml"
+    },
+    {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.collegeconnect.app-main-28:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
         "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-xxhdpi_ic_launcher.webp.flat",
@@ -104,6 +112,10 @@
         "source": "com.example.collegeconnect.app-main-28:/drawable/ic_add.xml"
     },
     {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_bg.xml.flat",
+        "source": "com.example.collegeconnect.app-main-28:/drawable/bg.xml"
+    },
+    {
         "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_backgrnd.jpg.flat",
         "source": "com.example.collegeconnect.app-main-28:/drawable/backgrnd.jpg"
     },
@@ -124,6 +136,10 @@
         "source": "com.example.collegeconnect.app-main-28:/drawable/ic_dashboard.xml"
     },
     {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_man.png.flat",
+        "source": "com.example.collegeconnect.app-main-28:/drawable/man.png"
+    },
+    {
         "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "com.example.collegeconnect.app-main-28:/mipmap-hdpi/ic_launcher_round.webp"
     },
@@ -140,6 +156,10 @@
         "source": "com.example.collegeconnect.app-main-28:/drawable/ic_launcher_background.xml"
     },
     {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_menu.png.flat",
+        "source": "com.example.collegeconnect.app-main-28:/drawable/menu.png"
+    },
+    {
         "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "com.example.collegeconnect.app-main-28:/mipmap-xxxhdpi/ic_launcher.webp"
     },
@@ -148,11 +168,23 @@
         "source": "com.example.collegeconnect.app-main-28:/drawable/ic_baseline_person_outline_24.xml"
     },
     {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/font_roboto_bold.ttf.flat",
+        "source": "com.example.collegeconnect.app-main-28:/font/roboto_bold.ttf"
+    },
+    {
         "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_baseline_arrow_back_24.xml.flat",
         "source": "com.example.collegeconnect.app-main-28:/drawable/ic_baseline_arrow_back_24.xml"
     },
     {
         "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-mdpi_ic_launcher.webp.flat",
         "source": "com.example.collegeconnect.app-main-28:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/font_roboto_regular.ttf.flat",
+        "source": "com.example.collegeconnect.app-main-28:/font/roboto_regular.ttf"
+    },
+    {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/font_roboto_light.ttf.flat",
+        "source": "com.example.collegeconnect.app-main-28:/font/roboto_light.ttf"
     }
 ]
