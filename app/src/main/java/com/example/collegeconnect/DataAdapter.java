@@ -11,6 +11,8 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import java.util.List;
+
 public class DataAdapter extends RecyclerView.Adapter<DataAdapter.ViewHolder>{
     HomeData[] homeData;
     Context context;
@@ -19,6 +21,12 @@ public class DataAdapter extends RecyclerView.Adapter<DataAdapter.ViewHolder>{
         this.homeData = homeData;
         this.context = homeFragment;
     }
+
+    public void setFilteredList(List<HomeData> filteredList) {
+        this.homeData = filteredList.toArray(new HomeData[0]);
+        notifyDataSetChanged();
+    }
+
 
     @NonNull
     @Override

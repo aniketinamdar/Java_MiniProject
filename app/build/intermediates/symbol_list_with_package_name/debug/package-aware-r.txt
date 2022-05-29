@@ -2447,6 +2447,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable arrow_dark
 drawable arrow_white
 drawable avd_hide_password
 drawable avd_show_password
@@ -2462,7 +2463,6 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
-drawable dashboard
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -2534,6 +2534,11 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable search
+drawable search_view_bg
+drawable settings
+drawable shield
+drawable support
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
@@ -2553,6 +2558,7 @@ id SHOW_ALL
 id SHOW_PATH
 id SHOW_PROGRESS
 id SYM
+id SeachView
 id TOP_END
 id TOP_START
 id accelerate
@@ -2609,6 +2615,7 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_search
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2687,6 +2694,7 @@ id currentState
 id custom
 id customPanel
 id cut
+id dashboard
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -2695,6 +2703,7 @@ id default_activity_button
 id deltaRelative
 id dependency_ordering
 id desc
+id descR
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -2765,6 +2774,7 @@ id groups
 id guideline
 id header_title
 id heading
+id headingR
 id hideable
 id home
 id homeAsUp
@@ -2777,6 +2787,7 @@ id ignore
 id ignoreRequest
 id image
 id imageview
+id imageviewR
 id immediateStop
 id included
 id info
@@ -2903,13 +2914,13 @@ id percent
 id pin
 id position
 id postLayout
-id profile
 id progress_circular
 id progress_horizontal
 id radio
 id ratio
 id rectangles
 id recyclerview
+id recyclerview2
 id reppassword
 id reverseSawtooth
 id right
@@ -2928,6 +2939,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id search
 id search_badge
 id search_bar
 id search_button
@@ -2937,7 +2949,6 @@ id search_go_btn
 id search_mag_icon
 id search_plate
 id search_src_text
-id search_view
 id search_voice_btn
 id select_dialog_listview
 id selected
@@ -3153,6 +3164,7 @@ layout activity_forgotpassword
 layout activity_loginin
 layout activity_main
 layout activity_mainscreen
+layout activity_recylcer_view_search
 layout activity_signup
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3260,6 +3272,7 @@ layout text_view_without_line_height
 menu bottom_navigation
 menu example_menu
 menu example_menu2
+menu search_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

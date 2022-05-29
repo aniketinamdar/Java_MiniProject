@@ -1,24 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="@color/white"
-    tools:context=".SearchFragment">
+    tools:context=".HomeFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-
-
-    <androidx.appcompat.widget.SearchView
-        android:id="@+id/search_view"
-        android:layout_width="390dp"
+    <TextView
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="8dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:queryHint="Search here" />
+        android:id="@+id/search"
+        android:text="Search"
+        android:textColor="@color/black"
+        android:textSize="35dp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_margin="50dp"
+        />
+    <!-- TODO: Update blank fragment layout -->
+    <!--    <TextView-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:id="@+id/signin"-->
+    <!--        android:text="Sign In"-->
+    <!--        android:textColor="@color/black"-->
+    <!--        android:textSize="35dp"-->
+    <!--        android:gravity="center"-->
+    <!--        android:textStyle="bold"-->
+    <!--        android:layout_margin="50dp"-->
+    <!--        />-->
+    <SearchView
+        android:id="@+id/SeachView"
+        android:layout_width="10dp"
+        android:layout_height="wrap_content"
+        android:queryHint="Search"
+        android:layout_marginTop="80dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/search_view_bg"
+        />
 
-</LinearLayout>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/recyclerview2"
+        android:layout_marginTop="160dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="40dp"
+
+        />
+</FrameLayout>

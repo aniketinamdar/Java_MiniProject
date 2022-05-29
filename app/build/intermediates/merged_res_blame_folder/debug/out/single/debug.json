@@ -1,190 +1,230 @@
 [
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_activity_loginin.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/layout/activity_loginin.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable-v24_background.png.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable-v24\\background.png"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.collegeconnect.app-pngs-21:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_img1.jpg.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\img1.jpg"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_logo.jpg.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\logo.jpg"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_background01.png.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/background01.png"
-    },
-    {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_baseline_info_24.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_baseline_info_24.xml"
-    },
-    {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_baseline_font_download_24.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_baseline_font_download_24.xml"
-    },
-    {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_dashboard.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/dashboard.xml"
-    },
-    {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_logo.jpg.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/logo.jpg"
-    },
-    {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_recycler_view.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/layout/recycler_view.xml"
-    },
-    {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/menu_bottom_navigation.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/menu/bottom_navigation.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\menu_search_menu.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\menu\\search_menu.xml"
     },
     {
         "merged": "com.example.collegeconnect.app-merged_res-26:/layout_fragment_dashboard.xml.flat",
         "source": "com.example.collegeconnect.app-main-28:/layout/fragment_dashboard.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_person.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_person.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\search.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_arrow_white.png.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/arrow_white.png"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_baseline_info_24.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_email.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_email.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_mainscreen.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_mainscreen.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-pngs-21:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_fragment_search.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/layout/fragment_search.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_recylcer_view_search.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_recylcer_view_search.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_activity_mainscreen.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/layout/activity_mainscreen.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_shield.png.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\shield.png"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\fragment_search.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_activity_main.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_email.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_search.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_home.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_img1.jpg.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/img1.jpg"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_settings.png.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\settings.png"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_activity_signup.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/layout/activity_signup.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_dashboard.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable-v24_background.png.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable-v24/background.png"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_add.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_add.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\menu.png"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_bg.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/bg.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_background01.png.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\background01.png"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_backgrnd.jpg.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/backgrnd.jpg"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_man.png.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\man.png"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_search.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_search.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_bg.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\bg.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_activity_forgotpassword.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/layout/activity_forgotpassword.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_arrow_white.png.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\arrow_white.png"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_home.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_home.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_dashboard.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_dashboard.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\font_roboto_light.ttf.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\font\\roboto_light.ttf"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_man.png.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/man.png"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_recycler_view.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\recycler_view.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\fragment_home.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_fragment_home.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/layout/fragment_home.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\font_roboto_regular.ttf.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\font\\roboto_regular.ttf"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_menu.png.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/menu.png"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_support.png.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\support.png"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_person.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_person.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_baseline_person_outline_24.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_baseline_person_outline_24.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_baseline_font_download_24.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_baseline_font_download_24.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/font_roboto_bold.ttf.flat",
-        "source": "com.example.collegeconnect.app-main-28:/font/roboto_bold.ttf"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_arrow_dark.png.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\arrow_dark.png"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/drawable_ic_baseline_arrow_back_24.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/drawable/ic_baseline_arrow_back_24.xml"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.collegeconnect.app-main-28:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/font_roboto_regular.ttf.flat",
-        "source": "com.example.collegeconnect.app-main-28:/font/roboto_regular.ttf"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_dashboard.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\dashboard.xml"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/font_roboto_light.ttf.flat",
-        "source": "com.example.collegeconnect.app-main-28:/font/roboto_light.ttf"
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_fragment_dashboard.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\menu_menusearch.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\menu\\menusearch.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_search_view_bg.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\search_view_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_backgrnd.jpg.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\backgrnd.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\menu_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\menu\\bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_loginin.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_loginin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_forgotpassword.xml.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_forgotpassword.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\font_roboto_bold.ttf.flat",
+        "source": "C:\\Users\\Aniket Inamdar\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\font\\roboto_bold.ttf"
     }
 ]
