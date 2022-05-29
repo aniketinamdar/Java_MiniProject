@@ -28,14 +28,15 @@
     <!--        android:textStyle="bold"-->
     <!--        android:layout_margin="50dp"-->
     <!--        />-->
+
     <SearchView
         android:id="@+id/SeachView"
-        android:layout_width="10dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:queryHint="Search"
+        android:queryHint="Search clubs"
         android:layout_marginTop="80dp"
         android:layout_marginLeft="20dp"
-        android:background="@drawable/search_view_bg"
+        android:layout_marginRight="20dp"
         />
 
     <androidx.recyclerview.widget.RecyclerView

@@ -13,6 +13,10 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+    public void OpenGetStarted(View view)
+    {
+        startActivity(new Intent(this,MainActivity.class));
+    }
 
     public void OpenSignUpPage(View view) {
         startActivity(new Intent(this,signup.class));

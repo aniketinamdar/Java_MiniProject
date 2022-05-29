@@ -72,26 +72,26 @@ import java.util.Locale;
 //}
 public class SearchFragment extends Fragment {
     RecyclerView recyclerView;
-    SearchView searchView;
+//    SearchView searchView;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
         View view=inflater.inflate(R.layout.fragment_search, container, false);
-        searchView = view.findViewById(R.id.SeachView);
-        searchView.clearFocus();
-        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
-            @Override
-            public boolean onQueryTextSubmit(String query) {
-                return false;
-            }
-
-            @Override
-            public boolean onQueryTextChange(String newText) {
-                filterList(newText);
-                return false;
-            }
-        });
+//        searchView = view.findViewById(R.id.SeachView);
+//        searchView.clearFocus();
+//        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+//            @Override
+//            public boolean onQueryTextSubmit(String query) {
+//                return false;
+//            }
+//
+//            @Override
+//            public boolean onQueryTextChange(String newText) {
+////                filterList(newText);
+//                return false;
+//            }
+//        });
         recyclerView=view.findViewById(R.id.recyclerview2);
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
@@ -107,26 +107,27 @@ public class SearchFragment extends Fragment {
         homeData = new HomeData[]{
                 new HomeData("Innovators Hub","Technical and non technical",R.drawable.img1),
                 new HomeData("Texephyr","Managment",R.drawable.img1) ,
+                new HomeData("Cosmos","Space relates",R.drawable.img1),
                 new HomeData("Cosmos","Space relates",R.drawable.img1)
         };
         return homeData;
     }
-    private void filterList(String newText) {
-        List<HomeData> filteredList = new ArrayList<>();
-        for (HomeData item : homeData)
-        {
-            if (item.getHeading().toLowerCase(Locale.ROOT).contains(newText.toLowerCase()))
-            {
-                filteredList.add(item);
-            }
-            if (filteredList.isEmpty())
-            {
-                Toast.makeText(getContext().getApplicationContext(), "No data found", Toast.LENGTH_SHORT).show();
-            }
-//            else
+//    private void filterList(String newText) {
+//        List<HomeData> filteredList = new ArrayList<>();
+//        for (HomeData item : homeData)
+//        {
+//            if (item.getHeading().toLowerCase(Locale.ROOT).contains(newText.toLowerCase()))
 //            {
-//                DataAdapterSearch.setFilteredList(filteredList);
+//                filteredList.add(item);
 //            }
-        }
-    }
+//            if (filteredList.isEmpty())
+//            {
+//                Toast.makeText(getContext().getApplicationContext(), "No data found", Toast.LENGTH_SHORT).show();
+//            }
+////            else
+////            {
+////                DataAdapter.setFilteredList(filteredList);
+////            }
+//        }
+//    }
 }

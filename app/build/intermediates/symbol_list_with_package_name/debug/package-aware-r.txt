@@ -2534,8 +2534,6 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable search
-drawable search_view_bg
 drawable settings
 drawable shield
 drawable support
@@ -2615,7 +2613,6 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
-id action_search
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2703,7 +2700,6 @@ id default_activity_button
 id deltaRelative
 id dependency_ordering
 id desc
-id descR
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -2774,7 +2770,6 @@ id groups
 id guideline
 id header_title
 id heading
-id headingR
 id hideable
 id home
 id homeAsUp
@@ -2787,7 +2782,6 @@ id ignore
 id ignoreRequest
 id image
 id imageview
-id imageviewR
 id immediateStop
 id included
 id info
@@ -3164,7 +3158,6 @@ layout activity_forgotpassword
 layout activity_loginin
 layout activity_main
 layout activity_mainscreen
-layout activity_recylcer_view_search
 layout activity_signup
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3272,7 +3265,6 @@ layout text_view_without_line_height
 menu bottom_navigation
 menu example_menu
 menu example_menu2
-menu search_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
