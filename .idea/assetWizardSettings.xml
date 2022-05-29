@@ -3,6 +3,11 @@
   <component name="WizardSettings">
     <option name="children">
       <map>
+        <entry key="imageWizard">
+          <value>
+            <PersistentState />
+          </value>
+        </entry>
         <entry key="vectorWizard">
           <value>
             <PersistentState>
@@ -18,7 +23,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$PROJECT_DIR$/../../Android_SDK/icons/material/materialicons/search/baseline_search_24.xml" />
+                                      <entry key="url" value="file:/$PROJECT_DIR$/../../Android_SDK/icons/material/materialicons/pan_tool/baseline_pan_tool_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +33,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="search" />
+                            <entry key="color" value="ffffff" />
+                            <entry key="outputName" value="ic_baseline_pan_tool_24" />
                             <entry key="sourceFile" value="D:\javaproj\Java_MiniProject" />
                           </map>
                         </option>
