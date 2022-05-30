@@ -10,91 +10,97 @@
 9        android:targetSdkVersion="32" />
 9-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml
 10
-11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:5:22-64
-12
-13    <application
-13-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:7:5-35:19
-14        android:allowBackup="true"
-14-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:8:9-35
-15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.7.0] C:\Users\bijux\.gradle\caches\transforms-3\d8338c189490aee58604e111af57865f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
-16        android:debuggable="true"
-17        android:icon="@mipmap/ic_launcher"
-17-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:9:9-43
-18        android:label="@string/app_name"
-18-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:10:9-41
-19        android:roundIcon="@mipmap/ic_launcher_round"
-19-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:11:9-54
-20        android:supportsRtl="true"
-20-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:12:9-35
-21        android:testOnly="true"
-22        android:theme="@style/Theme.CollegeConnect" >
-22-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:13:9-52
-23        <activity
-23-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:14:9-16:40
-24            android:name="com.example.collegeconnect.forgotpassword"
-24-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:15:13-43
-25            android:exported="false" />
-25-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:16:13-37
-26        <activity
-26-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:17:9-19:40
-27            android:name="com.example.collegeconnect.mainscreen"
-27-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:18:13-39
-28            android:exported="false" />
-28-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:19:13-37
-29        <activity
-29-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:20:9-22:40
-30            android:name="com.example.collegeconnect.Loginin"
-30-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:21:13-36
-31            android:exported="false" />
-31-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:22:13-37
-32        <activity
-32-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:23:9-25:40
-33            android:name="com.example.collegeconnect.signup"
-33-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:24:13-35
-34            android:exported="false" />
-34-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:25:13-37
-35        <activity
-35-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:26:9-34:20
-36            android:name="com.example.collegeconnect.MainActivity"
-36-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:27:13-41
-37            android:exported="true" >
-37-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:28:13-36
-38            <intent-filter>
-38-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:29:13-33:29
-39                <action android:name="android.intent.action.MAIN" />
-39-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:30:17-69
-39-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:30:25-66
-40
-41                <category android:name="android.intent.category.LAUNCHER" />
-41-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:32:17-77
-41-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:32:27-74
-42            </intent-filter>
-43        </activity>
-44
-45        <provider
-45-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
-46            android:name="androidx.startup.InitializationProvider"
-46-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
-47            android:authorities="com.example.collegeconnect.androidx-startup"
-47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
-48            android:exported="false" >
-48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
-49            <meta-data
-49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
-50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
-51                android:value="androidx.startup" />
-51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
-52            <meta-data
-52-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bijux\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
-53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-53-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bijux\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
-54                android:value="androidx.startup" />
-54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bijux\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
-55        </provider>
-56    </application>
-57
-58</manifest>
+11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+11-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:4:5-78
+11-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:4:22-75
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:5:5-81
+12-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:5:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:6:5-67
+13-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:6:22-64
+14
+15    <application
+15-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:7:5-35:19
+16        android:allowBackup="true"
+16-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:8:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.7.0] C:\Users\bijux\.gradle\caches\transforms-3\d8338c189490aee58604e111af57865f\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:9:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:10:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:11:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:12:9-35
+23        android:testOnly="true"
+24        android:theme="@style/Theme.CollegeConnect" >
+24-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:13:9-52
+25        <activity
+25-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:14:9-16:40
+26            android:name="com.example.collegeconnect.forgotpassword"
+26-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:15:13-43
+27            android:exported="false" />
+27-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:16:13-37
+28        <activity
+28-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:17:9-19:40
+29            android:name="com.example.collegeconnect.mainscreen"
+29-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:18:13-39
+30            android:exported="false" />
+30-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:19:13-37
+31        <activity
+31-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:20:9-22:40
+32            android:name="com.example.collegeconnect.Loginin"
+32-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:21:13-36
+33            android:exported="false" />
+33-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:22:13-37
+34        <activity
+34-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:23:9-25:40
+35            android:name="com.example.collegeconnect.signup"
+35-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:24:13-35
+36            android:exported="false" />
+36-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:25:13-37
+37        <activity
+37-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:26:9-34:20
+38            android:name="com.example.collegeconnect.MainActivity"
+38-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:27:13-41
+39            android:exported="true" >
+39-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:28:13-36
+40            <intent-filter>
+40-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:29:13-33:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:30:17-69
+41-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:30:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:32:17-77
+43-->C:\Users\bijux\AndroidStudioProjects\Java_MiniProject\app\src\main\AndroidManifest.xml:32:27-74
+44            </intent-filter>
+45        </activity>
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+49            android:authorities="com.example.collegeconnect.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\bijux\.gradle\caches\transforms-3\db233f3ba8947fb0f91cd701b83dfe6a\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bijux\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bijux\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\bijux\.gradle\caches\transforms-3\45759b04922bc547a81513b82a38ba1e\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+57        </provider>
+58    </application>
+59
+60</manifest>

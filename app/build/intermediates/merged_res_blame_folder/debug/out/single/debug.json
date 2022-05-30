@@ -36,6 +36,10 @@
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\font\\roboto_light.ttf"
     },
     {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_fragment_dashboard.xml.flat",
+        "source": "com.example.collegeconnect.app-main-28:/layout/fragment_dashboard.xml"
+    },
+    {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_launcher_background.xml"
     },
@@ -80,12 +84,12 @@
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_person.xml"
     },
     {
-        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable-v24_background.png.flat",
-        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable-v24\\background.png"
-    },
-    {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_arrow_dark.png.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\arrow_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable-v24_background.png.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable-v24\\background.png"
     },
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -132,16 +136,12 @@
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\img1.jpg"
     },
     {
-        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_fragment_search.xml.flat",
-        "source": "com.example.collegeconnect.app-main-28:/layout/fragment_search.xml"
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_loginin.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_loginin.xml"
     },
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_fragment_home.xml.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\fragment_home.xml"
-    },
-    {
-        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_loginin.xml.flat",
-        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_loginin.xml"
     },
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_shield.png.flat",

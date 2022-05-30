@@ -107,8 +107,8 @@ public class SearchFragment extends Fragment {
         homeData = new HomeData[]{
                 new HomeData("Innovators Hub","Technical and non technical",R.drawable.img1),
                 new HomeData("Texephyr","Managment",R.drawable.img1) ,
-                new HomeData("Cosmos","Space relates",R.drawable.img1),
-                new HomeData("Cosmos","Space relates",R.drawable.img1)
+                new HomeData("Cosmos","Space related",R.drawable.img1),
+                new HomeData("Numerates","Maths",R.drawable.img1)
         };
         return homeData;
     }
