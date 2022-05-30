@@ -2468,14 +2468,18 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edit
 drawable ic_add
 drawable ic_baseline_arrow_back_24
+drawable ic_baseline_contact_support_24
 drawable ic_baseline_font_download_24
 drawable ic_baseline_info_24
+drawable ic_baseline_pan_tool_24
 drawable ic_baseline_person_outline_24
 drawable ic_clock_black_24dp
 drawable ic_dashboard
 drawable ic_email
+drawable ic_event
 drawable ic_home
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -2489,6 +2493,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_person
 drawable ic_search
+drawable ic_year
 drawable img1
 drawable logo
 drawable m3_appbar_background
@@ -2534,6 +2539,8 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable search
+drawable search_view_bg
 drawable settings
 drawable shield
 drawable support
@@ -2613,6 +2620,7 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
+id action_search
 id action_text
 id actions
 id activity_chooser_view_content
@@ -2674,11 +2682,13 @@ id clip_horizontal
 id clip_vertical
 id clockwise
 id closest
+id club
 id cnfirmpasswrd
 id collapseActionView
 id compress
 id confirm_button
 id constraint
+id contactme
 id container
 id content
 id contentPanel
@@ -2691,6 +2701,7 @@ id currentState
 id custom
 id customPanel
 id cut
+id dash_name
 id dashboard
 id date_picker_actions
 id decelerate
@@ -2700,6 +2711,7 @@ id default_activity_button
 id deltaRelative
 id dependency_ordering
 id desc
+id descR
 id design_bottom_sheet
 id design_menu_item_action_area
 id design_menu_item_action_area_stub
@@ -2728,6 +2740,7 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id editProfile
 id edit_query
 id edittext_dropdown_editable
 id edittext_dropdown_noneditable
@@ -2770,6 +2783,7 @@ id groups
 id guideline
 id header_title
 id heading
+id headingR
 id hideable
 id home
 id homeAsUp
@@ -2782,6 +2796,7 @@ id ignore
 id ignoreRequest
 id image
 id imageview
+id imageviewR
 id immediateStop
 id included
 id info
@@ -2957,6 +2972,7 @@ id signin
 id signup
 id signupbtn
 id sin
+id skills
 id skipCollapsed
 id skipped
 id slide
@@ -3061,6 +3077,7 @@ id wrap_content
 id wrap_content_constrained
 id x_left
 id x_right
+id year
 id zero_corner_chip
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
@@ -3154,10 +3171,12 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_edit_profile
 layout activity_forgotpassword
 layout activity_loginin
 layout activity_main
 layout activity_mainscreen
+layout activity_recylcer_view_search
 layout activity_signup
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3265,6 +3284,7 @@ layout text_view_without_line_height
 menu bottom_navigation
 menu example_menu
 menu example_menu2
+menu search_menu
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

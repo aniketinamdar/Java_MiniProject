@@ -12,6 +12,10 @@
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\font\\roboto_bold.ttf"
     },
     {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\menu_search_menu.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\menu\\search_menu.xml"
+    },
+    {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
@@ -40,6 +44,10 @@
         "source": "com.example.collegeconnect.app-main-28:/layout/fragment_dashboard.xml"
     },
     {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_search.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\search.xml"
+    },
+    {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_launcher_background.xml.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_launcher_background.xml"
     },
@@ -60,6 +68,10 @@
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\man.png"
     },
     {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_edit.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\edit.xml"
+    },
+    {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\menu_bottom_navigation.xml.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\menu\\bottom_navigation.xml"
     },
@@ -72,8 +84,16 @@
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\bg.xml"
     },
     {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_baseline_pan_tool_24.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_baseline_pan_tool_24.xml"
+    },
+    {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_baseline_person_outline_24.xml.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_search_view_bg.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\search_view_bg.xml"
     },
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_home.xml.flat",
@@ -84,12 +104,12 @@
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_person.xml"
     },
     {
-        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_arrow_dark.png.flat",
-        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\arrow_dark.png"
-    },
-    {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable-v24_background.png.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable-v24\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_arrow_dark.png.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\arrow_dark.png"
     },
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-hdpi_ic_launcher_round.webp.flat",
@@ -100,12 +120,20 @@
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_recylcer_view_search.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_recylcer_view_search.xml"
+    },
+    {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_recycler_view.xml.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\recycler_view.xml"
     },
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\font_roboto_regular.ttf.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\font\\roboto_regular.ttf"
+    },
+    {
+        "merged": "com.example.collegeconnect.app-merged_res-26:/layout_activity_loginin.xml.flat",
+        "source": "com.example.collegeconnect.app-main-28:/layout/activity_loginin.xml"
     },
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -132,8 +160,16 @@
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_email.xml"
     },
     {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_baseline_contact_support_24.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_baseline_contact_support_24.xml"
+    },
+    {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_img1.jpg.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\img1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_event.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_event.xml"
     },
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_loginin.xml.flat",
@@ -162,6 +198,10 @@
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_main.xml.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable_ic_year.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\drawable\\ic_year.xml"
     },
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\mipmap-xxhdpi_ic_launcher.webp.flat",
@@ -202,5 +242,9 @@
     {
         "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-pngs-21:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-merged_res-26:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\bijux\\.gradle\\daemon\\7.3.3\\com.example.collegeconnect.app-main-28:\\layout\\activity_edit_profile.xml"
     }
 ]

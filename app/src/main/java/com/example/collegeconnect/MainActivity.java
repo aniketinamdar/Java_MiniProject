@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.EditText;
 import android.widget.Toast;
 
 import com.example.collegeconnect.S;
@@ -42,7 +43,31 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void OpenLoginPage(View view) {
-        startActivity(new Intent(this,Loginin.class));
+        EditText et_name = findViewById(R.id.name);
+        EditText et_email = findViewById(R.id.emailid);
+        EditText et_pass = findViewById(R.id.passwrd);
+        EditText et_cnf = findViewById(R.id.cnfirmpasswrd);
+        String s = "";
+        if (et_pass.getText().equals(et_cnf.getText())) {
+            try {
+                S.dos.writeUTF("signup");
+                S.dos.writeUTF("" + et_name.getText());
+                S.dos.writeUTF("" + et_email.getText());
+                S.dos.writeUTF("" + et_pass.getText());
+                s = S.dis.readUTF();
+                if (s.equals("ok")) {
+                    startActivity(new Intent(this, Loginin.class));
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run() {
+                            Toast.makeText(MainActivity.this, "signed up successfully", Toast.LENGTH_SHORT).show();
+                        }
+                    });
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
     }
 
     public void OpenMainPage(View view) {
