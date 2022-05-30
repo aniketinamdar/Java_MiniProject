@@ -115,12 +115,11 @@ public class HomeFragment extends Fragment {
 
     private HomeData[] initData() {
         HomeData[] homeData = new HomeData[]{
-                new HomeData("Sample1","description1",R.drawable.img1),
-                new HomeData("Sample2","description2",R.drawable.img1) ,
-                new HomeData("Sample3","description3",R.drawable.img1),
-                new HomeData("Sample4","description4",R.drawable.img1),
-                new HomeData("Sample5","description5",R.drawable.img1),
-                new HomeData("Sample6","description6",R.drawable.img1)
+                new HomeData("Innovators hub recruitment","Mech and ECE recruitments",R.drawable.ih),
+                new HomeData("Cosmos Recruitment","Only for first year",R.drawable.cosmos) ,
+                new HomeData("Numerates Recruitment","For second an third year",R.drawable.numerates),
+                new HomeData("HackX seminar","Seminar on ethical hacking",R.drawable.hackx),
+                new HomeData("Innovators Hub","Webinar on Git/Github",R.drawable.ih)
         };
         return homeData;
     }

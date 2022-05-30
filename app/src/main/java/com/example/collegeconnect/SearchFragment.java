@@ -72,7 +72,11 @@ import java.util.Locale;
 //}
 public class SearchFragment extends Fragment {
     RecyclerView recyclerView;
-//    SearchView searchView;
+    SearchView searchView;
+    List<Model> modelList;
+    CustomAdapter customAdapter;
+
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
@@ -92,42 +96,46 @@ public class SearchFragment extends Fragment {
 //                return false;
 //            }
 //        });
-        recyclerView=view.findViewById(R.id.recyclerview2);
-        recyclerView.setHasFixedSize(true);
-        recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
-
+        searchView = view.findViewById(R.id.search);
         //initData();
-        recyclerView.setAdapter(new DataAdapter(initData(), getContext()));
+        displayItems(view);
+        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
+            @Override
+            public boolean onQueryTextSubmit(String query) {
+                return false;
+            }
+
+            @Override
+            public boolean onQueryTextChange(String newText) {
+                filter(newText);
+                return true;
+            }
+        });
         return view;
     }
 
-
-    HomeData[] homeData = null;
-    public HomeData[] initData() {
-        homeData = new HomeData[]{
-                new HomeData("Innovators Hub","Technical and non technical",R.drawable.img1),
-                new HomeData("Texephyr","Managment",R.drawable.img1) ,
-                new HomeData("Cosmos","Space related",R.drawable.img1),
-                new HomeData("Numerates","Maths",R.drawable.img1)
-        };
-        return homeData;
+    private void filter(String newText) {
+        List<Model> filteredList = new ArrayList<>();
+        for(Model item : modelList)
+        {
+            if (item.getHeading().toLowerCase().contains(newText.toLowerCase()));
+            {
+                filteredList.add(item);
+            }
+        }
+        customAdapter.filterList(filteredList);
     }
-//    private void filterList(String newText) {
-//        List<HomeData> filteredList = new ArrayList<>();
-//        for (HomeData item : homeData)
-//        {
-//            if (item.getHeading().toLowerCase(Locale.ROOT).contains(newText.toLowerCase()))
-//            {
-//                filteredList.add(item);
-//            }
-//            if (filteredList.isEmpty())
-//            {
-//                Toast.makeText(getContext().getApplicationContext(), "No data found", Toast.LENGTH_SHORT).show();
-//            }
-////            else
-////            {
-////                DataAdapter.setFilteredList(filteredList);
-////            }
-//        }
-//    }
+
+    private void displayItems(View view)
+    {
+        recyclerView=view.findViewById(R.id.recyclerview2);
+        recyclerView.setHasFixedSize(true);
+        recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
+        modelList.add(new Model("Innovators Hub","Technical and non technical",R.drawable.ih));
+        modelList.add(new Model("Texephyr","Managment",R.drawable.tex));
+        modelList.add(new Model("Cosmos","Space related",R.drawable.cosmos));
+        modelList.add(new Model("Numerates","Maths",R.drawable.numerates));
+        customAdapter = new CustomAdapter(this.searchView.getContext(), modelList);
+    }
+
 }
