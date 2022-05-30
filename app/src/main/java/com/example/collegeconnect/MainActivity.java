@@ -54,6 +54,6 @@ public class MainActivity extends AppCompatActivity {
     public void Finish(View view) {
         finish();
     }
-
+    public void Edit(View view){startActivity(new Intent(this,EditProfile.class));}
 
 }

@@ -6,6 +6,20 @@
 
     tools:context=".DashboardFragment">
 
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@android:color/white"
+        android:src="@drawable/edit"
+        android:elevation="0dp"
+        android:tint="#229FD1"
+        android:onClick="Edit"
+        />
+
     <!-- TODO: Update blank fragment layout -->
     <TextView
         android:layout_width="match_parent"
